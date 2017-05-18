@@ -197,7 +197,7 @@ namespace Calculadora
             // btnSubtracao
             // 
             this.btnSubtracao.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnSubtracao.Location = new System.Drawing.Point(272, 327);
+            this.btnSubtracao.Location = new System.Drawing.Point(259, 316);
             this.btnSubtracao.Name = "btnSubtracao";
             this.btnSubtracao.Size = new System.Drawing.Size(56, 42);
             this.btnSubtracao.TabIndex = 16;
